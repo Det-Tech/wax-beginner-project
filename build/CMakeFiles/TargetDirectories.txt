@@ -1,0 +1,3 @@
+/Users/ryan/Desktop/code_for_life/test_withdraw/build/CMakeFiles/test_withdraw_project.dir
+/Users/ryan/Desktop/code_for_life/test_withdraw/build/CMakeFiles/edit_cache.dir
+/Users/ryan/Desktop/code_for_life/test_withdraw/build/CMakeFiles/rebuild_cache.dir

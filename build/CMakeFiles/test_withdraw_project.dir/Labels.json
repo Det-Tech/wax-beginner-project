@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/CMakeFiles/test_withdraw_project"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/CMakeFiles/test_withdraw_project.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/CMakeFiles/test_withdraw_project-complete.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-build.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-configure.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-download.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-install.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-patch.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-test.rule"
+		},
+		{
+			"file" : "/Users/ryan/Desktop/code_for_life/test_withdraw/build/test_withdraw_project-prefix/src/test_withdraw_project-stamp/test_withdraw_project-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"test_withdraw_project"
+		],
+		"name" : "test_withdraw_project"
+	}
+}
